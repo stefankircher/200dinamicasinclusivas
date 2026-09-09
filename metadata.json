@@ -1,0 +1,8 @@
+{
+  "name": "Dinâmicas para Alfabetização",
+  "description": "Landing page de vendas para material de alfabetização infantil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
